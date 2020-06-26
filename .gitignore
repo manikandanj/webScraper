@@ -23,3 +23,6 @@ automation/ocr/ocrconfig.meta
 automation/deltaCalculator.log
 automation/ocr/ocrconfig.meta
 automation/ocr/ocrconfig.meta
+venv
+.idea/
+automation/__pycache__/
