@@ -26,3 +26,4 @@ automation/ocr/ocrconfig.meta
 venv
 .idea/
 automation/__pycache__/
+!requirements.txt
